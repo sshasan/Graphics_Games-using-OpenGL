@@ -14,6 +14,6 @@ Simple Games that can be played using arrows on Keyboard.
 
 #Game-2   Ball_Game ----  move your dot(red) to collect other dots(green)
 
-@compile  --> gcc Ball_game.c -o Ball_game -lm -lGL -lGLU -lglut
+@compile  --> gcc Ball_Game.c -o Ball_game -lm -lGL -lGLU -lglut
 @run --->   ./Ball_game
 @Control ---> use left,right,top,down arraows to collect green balls.
